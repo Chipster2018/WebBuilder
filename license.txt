@@ -1,0 +1,24 @@
+You are allowed to use this software to build your website.
+
+You are allowed to make changes to this software, provided you don't package and redistribute
+them without permission. This is a version control thing more than anything else. I'd rather 
+not there be 1000 versions of this Web Builder all with minor tweaks. Again, if you can make it
+better or more custom, by all means go ahead. Just don't give the modified version to people.
+Please point them to the original code instead.
+
+You are allowed to create your own modules. Even if they completely depend on Web Builder to 
+run, they are still absolutely your code. Do whatever you want with them. If you think lots of 
+people will find them useful, feel free to post them on github or similar platforms.
+
+If you have a feature that you think everyone will like/benefit from, you can make your own
+module and put it there, or consider contacting me and contributing. Just please don't create
+your own packaged version.
+
+This software is given AS IS. No warrenty is expressed or implied. If it's
+broken, out of the package or otherwise, I'm not obligated to fix it. That said, feel free to
+open an issue if you have a bug.
+
+One final thing: You can do anything within reason with this code, comercial or otherwise, 
+provided you honor my wishes about version control. If you have any other questions not 
+covered here, you can email me at rev20-10@psalm126.com, or open an issue on Github.
+
